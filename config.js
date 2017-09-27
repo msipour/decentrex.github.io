@@ -257,6 +257,7 @@ module.exports = {
 { addr: '0xb24754be79281553dc1adc160ddf5cd9b74361a4', name: 'XRL', decimals: 9 },
 { addr: '0x4e260e3ca268e40133c84b142de73108a7c1ec99', name: 'YC', decimals: 0 },
 { addr: '0xe41d2489571d322189246dafa5ebde1f4699f498', name: 'ZRX', decimals: 18 }
+{ addr: '0xEf6B4cE8C9Bc83744fbcdE2657b32eC18790458A', name: 'PUC', decimals: 0 },
 
   ],
   defaultPair: { token: '1ST', base: 'ETH' },
@@ -491,6 +492,7 @@ module.exports = {
 { token: 'XRL', base: 'ETH' },
 { token: 'YC', base: 'ETH' },
 { token: 'ZRX', base: 'ETH' },
+{ token: 'PUC', base: 'ETH' },    
   ],
 };
 
