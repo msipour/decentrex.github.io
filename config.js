@@ -26,7 +26,7 @@ module.exports = {
   ordersCacheCookie: 'DecentrEx_ordersCache',
   etherscanAPIKey: 'KF9ADFTHP4WJF1GV3WHJZCTFZIN5XZUXG1',
   tokens: [
-{ addr: '0x0000000000000000000000000000000000000000', name: 'ETH', decimals: 18 },
+{ addr: '0xEf6B4cE8C9Bc83744fbcdE2657b32eC18790458A', name: 'PUC', decimals: 0 },
 { addr: '0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7', name: '1ST', decimals: 18 },
 { addr: '0x422866a8f0b032c5cf1dfbdef31a20f4509562b0', name: 'ADST', decimals: 0 },
 { addr: '0xd0d6d6c5fe4a677d343cc433536bb717bae167dd', name: 'ADT', decimals: 9 },
